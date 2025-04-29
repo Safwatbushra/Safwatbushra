@@ -3,6 +3,8 @@
 🎓 **Computer Science & Engineering Student**  
 🌐 **Aspiring Data Scientist | Tech Enthusiast**  
 📍 **Based in Dhaka, Bangladesh**
+📧 **Email:** [**afreenbushra82@gmail.com**](mailto:afreenbushra82@gmail.com) 
+💼 **LinkedIn:** [**Safwat Bushra Afreen**](https://www.linkedin.com/in/safwat-bushra-afreen-48018b23b)
 
 
 ## 🛠️ Technologies & Tools
@@ -16,12 +18,3 @@
 
 - **[epi_vaccination](https://github.com/Safwatbushra/epi_vaccination)**: A database management project developed using PHP to streamline vaccination records.  
 
-
-## 📫 Connect with Me
-
-Feel free to reach out or connect with me:
-
-- 📧 Email: afreenbushra82@gmail.com  
-- 💼 LinkedIn: [Safwat Bushra Afreen](https://www.linkedin.com/in/safwat-bushra-afreen-48018b23b)
-
-Let's collaborate and build something amazing together!
