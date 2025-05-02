@@ -8,10 +8,12 @@
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, Java, SQL, C, C++, HTML, CSS  
-- **Frameworks:** FastAPI, Uvicorn  
-- **Libraries:** NumPy, Pandas   
-- **Other Skills:** API Development, Data Processing, UX Design, Social Media Management, Project Management
+- **Languages:** Python, Java, SQL, C, C++, HTML, CSS, JavaScript  
+- **Frameworks:** FastAPI, Uvicorn, Node.js, React, Tailwind CSS  
+- **Libraries:** NumPy, Pandas, Matplotlib, TensorFlow  
+- **Data Skills:** Exploratory Data Analysis (EDA), Data Wrangling, Data Manipulation, Data Processing, Data Analysis  
+- **Other Skills:** API Development, UX Design, Social Media Management, Project Management
+
 
 ## 📂 Notable Projects
 
