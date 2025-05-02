@@ -2,7 +2,7 @@
 
 🎓 **Computer Science & Engineering Student**  
 🌐 **Aspiring Data Scientist | Tech Enthusiast**  
-📧 **Email:** [**afreenbushra82@gmail.com**](mailto:afreenbushra82@gmail.com) 
+📧 **Email:** [**safwatbushra45@gmail.com**](mailto:afreenbushra82@gmail.com) 
 💼 **LinkedIn:** [**Safwat Bushra Afreen**](https://www.linkedin.com/in/safwat-bushra-afreen-48018b23b)
 
 
