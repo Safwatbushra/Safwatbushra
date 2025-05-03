@@ -1,4 +1,4 @@
-# 👋 Hello there, I'm Safwat Bushra Afreen!
+# 👋 Hello, I'm Safwat Bushra Afreen!
 
 🎓 **Computer Science & Engineering Student**  
 🌐 **Aspiring Data Scientist | Tech Enthusiast**  
