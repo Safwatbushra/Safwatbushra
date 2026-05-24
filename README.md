@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Safwat Bushra Afreen!
 
 🎓 **Computer Science & Engineering Student**  
-🌐 **Aspiring Data Scientist | Tech Enthusiast**  
+🌐 **Aspiring Data & ML Scientist | Tech Enthusiast**  
 📧 **Email:** [**safwatbushra45@gmail.com**](mailto:afreenbushra82@gmail.com) 
 💼 **LinkedIn:** [**Safwat Bushra Afreen**](https://www.linkedin.com/in/safwat-bushra-afreen-48018b23b)
 
